@@ -2,3 +2,4 @@
 # on commence avec les pays d'afrique
 RDC
 Nigeria
+Maroc
